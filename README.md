@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,git,c,cpp,css,discord,docker,github,html,linux,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ros,git,c,cpp,css,arduino,discord,docker,github,html,linux,py,vscode&perline=14" />
   </a>
 </p>
 
