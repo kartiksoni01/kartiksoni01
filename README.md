@@ -8,7 +8,12 @@
     <summary><h1 style="display: inline-block">Hello World! I'm Kartik</h1></summary>
   </ul>
 </div>
-
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">I like to believe I'm not a robot and I create them :)</h3></summary>
+  </ul>
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -17,12 +22,7 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">I like to believe I'm not a robot and I create them :)</h2></summary>
-  </ul>
-</div>
+
 
 
 
